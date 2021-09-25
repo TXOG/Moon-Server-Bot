@@ -9,6 +9,8 @@ After about 1 and half years of the bot being broken (my bad) - it now works
 
 You can access the bot by either going to discord.gg/wY8S3xJd7G or running the RunMoonBot.exe file (Some functionality has been removed)
 
+Important ids and tokens have been hidden and replaced by a nonexistent variable id
+
 ## Antivirus
 
 You may encounter issues with an antivirus program when running RunMoonBot.exe
