@@ -32,3 +32,5 @@ MIT license
 Developer: daTXOGllama#1234 (Thomas Kerby)
 
 Owner: Muneeb#0232
+
+Icon: https://www.onlinewebfonts.com/icon/312366
