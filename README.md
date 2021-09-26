@@ -13,7 +13,7 @@ Important ids and tokens have been hidden and replaced by a nonexistent variable
 
 ## Antivirus
 
-You may encounter issues with an antivirus program when running RunMoonBot.exe
+7/67 security vendors flagged v1.0 as malicious 
 
 Create an issue or message daTXOGllama#1234 (you will need to be in moon server) to ask for help fixing this issue
 
